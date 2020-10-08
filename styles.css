@@ -1,0 +1,18 @@
+h1{
+  margin-left:47rem;
+  font-size: 200%;
+}
+.flex{
+  font-size: 6rem;
+  flex-wrap: wrap;
+}
+#emoji {
+  display: grid;
+  margin-top: 200%;
+  margin-left: 50rem;
+  justify-content: center;
+  align-content: center;
+  width: 3px;
+  height: 1px;
+}
+
